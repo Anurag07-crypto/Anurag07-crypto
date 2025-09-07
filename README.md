@@ -15,16 +15,16 @@ Aspiring **AI Engineer** passionate about building intelligent solutions with Py
 ## 🏆 Achievements & Certifications
 
 - 🎓 **Data Cleaning and Preprocessing in Machine Learning**  
-  [CodeSignal Certificate (July 2025)](https://codesignal.com/learn/certificates/cmcxdqjbn0004l104jj6xvutu/courses/62)  
-  ![Data Cleaning and Preprocessing Certificate](https://github.com/Anurag07-crypto/Anurag07-crypto/assets/your-image-path-here) <!-- Reference Image 1 -->
+
   
+
 - 🎓 **College Algebra with Python**  
-  [freeCodeCamp Certificate (May 2025)](https://freecodecamp.org/certification/_anurag_kumar/college-algebra-with-python-v8)  
-  ![College Algebra with Python Certificate](https://github.com/Anurag07-crypto/Anurag07-crypto/assets/your-image-path-here) <!-- Reference Image 2 -->
+
   
+
 - 🎓 **Regression and Gradient Descent**  
-  [CodeSignal Certificate (August 2025)](https://codesignal.com/learn/certificates/cmcxdqjbn0004l104jj6xvutu/courses/84)  
-  ![Regression and Gradient Descent Certificate](https://github.com/Anurag07-crypto/Anurag07-crypto/assets/your-image-path-here) <!-- Reference Image 3 -->
+  
+  
 
 ---
 
