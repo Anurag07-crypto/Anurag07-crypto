@@ -50,7 +50,7 @@ Aspiring **AI Engineer** passionate about building intelligent solutions with Py
 ## 📫 Let's Connect
 
 - Email: vanuragkumardesai@gmail.com
-- Instagram: [coder_anuu](https://instagram.com/coder_anuu)
+- Instagram: [ai_with_anuu](https://instagram.com/ai_with_anuu)
 
 ---
 
