@@ -28,12 +28,6 @@ Your projects are organized into thematic categories to better highlight your di
 | **AutoMLite** | Experiments with Automated Machine Learning (**AutoML**) to rapidly prototype and test models. | [Repo Link](https://github.com/Anurag07-crypto/AutoMLite) |
 | **Visualization-** | Comprehensive Data Visualization experiments and interactive dashboards (Matplotlib/Seaborn). | [Repo Link](https://github.com/Anurag07-crypto/Visualization-) |
 
-### 🏥 Healthcare & Domain-Specific AI
-
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **Ai-Health-Companion** | An AI-powered health assistant project, likely focused on predictive or diagnostic applications in healthcare. | [Repo Link](https://github.com/Anurag07-crypto/Ai-Health-Companion) |
-
 ### 🛠️ AI/ML Deployment & Utility Tools
 
 | Project | Description | Link |
