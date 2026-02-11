@@ -96,7 +96,7 @@ This section is a detailed breakdown of my core technical competencies, reflecti
 I'm always open to discussing new AI concepts, potential collaborations, or challenging projects.
 
 - Email: anuragbusiness819@gmail.com
-- Instagram: [ai_with_anuu](https://instagram.com/ai_with_anuu)
+- Instagram: [anuu.code](https://instagram.com/anuu.code)
 
 ---
 
