@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anurag Kumar!
 
-Aspiring **AI Engineer** | Level 40+ AI Skill Tree 🚀 | Python | Deep Learning | Full-Stack ML
+IBM CERTIFIED **AI Engineer** | Level 40+ AI Skill Tree 🚀 | Python | Deep Learning | Full-Stack ML
 
 ---
 
