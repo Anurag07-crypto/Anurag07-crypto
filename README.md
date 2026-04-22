@@ -1,104 +1,147 @@
 # 👋 Hi, I'm Anurag Kumar!
 
-IBM CERTIFIED **AI Engineer** | Level 40+ AI Skill Tree 🚀 | Python | Deep Learning | Full-Stack ML
+🚀 IBM Certified AI Engineer | Full-Stack ML Builder | Deep Learning Enthusiast  
 
 ---
 
-## 🚀 About Me - The AI Journey
-I am an ambitious **AI Engineer** dedicated to transforming complex data into intelligent, real-world solutions. With a deep foundation in **Python, Machine Learning, and Deep Learning (CNNs, Transformers)**, my focus is on building full-stack ML products, from data pipeline to final deployment.
+## 🚀 About Me
 
-- 🧠 **Vision:** To shape the future by designing and deploying cutting-edge AI systems.
-- 💡 **M.O.:** Always focused on **AI Product thinking**—turning a model into a viable, impactful solution.
-- 📊 **Expertise:** Building analytics, visualizations, robust predictive models, and sophisticated deep learning architectures.
-- 🏆 **Status:** Currently operating at **Level 40+** on the AI skill tree.
+I am an AI Engineer focused on building **real-world, end-to-end AI systems** — from raw data to deployed applications.
+
+- 🧠 Strong foundation in **Python, Machine Learning & Deep Learning**
+- ⚙️ Experience building **full-stack AI apps (Streamlit + FastAPI)**
+- 🔍 Focus on **AI Product Thinking** (not just models, but usable systems)
+- 🚀 Currently leveling up in **Deep Learning & AI Systems Design**
 
 ---
 
-## 📚 Featured AI Projects
+## 📌 Featured Projects
 
-Your projects are organized into thematic categories to better highlight your diverse skills and focus areas.
-
-### 🧠 Core Machine Learning & Data Science
+### 🔥 AI Systems & RAG Applications
 
 | Project | Description | Link |
-| :--- | :--- | :--- |
-| **CustomerCompass** | **Customer Analytics and Insights Platform** leveraging ML models for predictive insights and segmentation. | [Repo Link](https://github.com/Anurag07-crypto/CustomerCompass) |
-| **startup_profit_prediction** | Applying advanced Regression models for **Startup Profitability Forecasting** based on various spending metrics. | [Repo Link](https://github.com/Anurag07-crypto/startup_profit_prediction) |
-| **HR-Insights** | Data-driven **HR Analytics** dashboard for strategic workforce insights and personnel reporting. | [Repo Link](https://github.com/Anurag07-crypto/HR-Insights) |
-| **AutoMLite** | Experiments with Automated Machine Learning (**AutoML**) to rapidly prototype and test models. | [Repo Link](https://github.com/Anurag07-crypto/AutoMLite) |
-| **Visualization-** | Comprehensive Data Visualization experiments and interactive dashboards (Matplotlib/Seaborn). | [Repo Link](https://github.com/Anurag07-crypto/Visualization-) |
+|--------|------------|------|
+| **AI_PokeDex** | CNN + LLM app that identifies Pokémon and generates structured insights | [View](https://github.com/Anurag07-crypto/AI_PokeDex) |
+| **Enterprise Voice RAG** | Voice-based RAG system for querying company documents | [View](https://github.com/Anurag07-crypto/enterprise-voice-rag) |
+| **QueryPilot** | Production-grade RAG system with caching, logging & query optimization | [View](https://github.com/Anurag07-crypto/QueryPilot) |
+| **Mini Data Analyst** | AI assistant that analyzes datasets & generates insights automatically | [View](https://github.com/Anurag07-crypto/mini_data_analyst) |
+| **AI Engineering RAG Bot** | AI tutor powered by Retrieval-Augmented Generation | [View](https://github.com/Anurag07-crypto/Ai-engineering-rag-bot) |
+| **RAG Core** | Modular RAG pipeline using LangChain + ChromaDB | [View](https://github.com/Anurag07-crypto/RAG-Core) |
 
-### 🛠️ AI/ML Deployment & Utility Tools
+---
+
+### 🧠 Deep Learning Projects
 
 | Project | Description | Link |
-| :--- | :--- | :--- |
-| **chatbot** | Implementation of a basic **Chatbot** (likely using rule-based or simple ML/NLP) for interactive experiences. | [Repo Link](https://github.com/Anurag07-crypto/chatbot) |
-| **Linkedin_Post_writer** | A tool leveraging AI/NLP to assist in drafting and generating engaging **LinkedIn content**. | [Repo Link](https://github.com/Anurag07-crypto/Linkedin_Post_writer) |
-| **cuteie-ai-portfolio** | A repository used to host or manage your AI-focused portfolio projects. | [Repo Link](https://github.com/Anurag07-crypto/cuteie-ai-portfolio) |
+|--------|------------|------|
+| **SignVision** | Real-time sign language recognition using MobileNetV2 | [View](https://github.com/Anurag07-crypto/SignVision) |
+| **Bird Identification CNN** | Image classifier for Indian bird species | [View](https://github.com/Anurag07-crypto/Bird-Identification-CNN-Model) |
+| **AI vs Real Image Detector** | Detects AI-generated vs real images | [View](https://github.com/Anurag07-crypto/Ai-vs-Real-Image-Identifier) |
+| **Seq2Seq Chatbot** | LSTM-based chatbot built with PyTorch | [View](https://github.com/Anurag07-crypto/-Seq2Seq-LSTM-Chatbot-Streamlit-PyTorch-) |
 
-### 💻 Core Python & Logic Development
+---
+
+### 📊 Machine Learning & Data Science
 
 | Project | Description | Link |
-| :--- | :--- | :--- |
-| **Riddle-quest.py** | Fun Python challenges and logic puzzles for skill development. | [Repo Link](https://github.com/Anurag07-crypto/Riddle-quest.py) |
-| **Matrix_operations** | Python implementations of fundamental linear algebra and matrix operations. | [Repo Link](https://github.com/Anurag07-crypto/Matrix_operations) |
-| **Strong_password_generator** | A practical utility tool demonstrating knowledge of string manipulation and security best practices. | [Repo Link](https://github.com/Anurag07-crypto/Strong_password_generator) |
-| **Guess-the-number** | A classic Python console game for demonstrating core programming concepts. | [Repo Link](https://github.com/Anurag07-crypto/Guess-the-number) |
+|--------|------------|------|
+| **CustomerCompass** | Customer segmentation & predictive analytics | [View](https://github.com/Anurag07-crypto/CustomerCompass) |
+| **Startup Profit Prediction** | Regression model for startup profitability | [View](https://github.com/Anurag07-crypto/startup_profit_prediction) |
+| **HR Insights** | Data-driven HR analytics dashboard | [View](https://github.com/Anurag07-crypto/HR-Insights) |
+| **AutoMLite** | AutoML experiments for rapid prototyping | [View](https://github.com/Anurag07-crypto/AutoMLite) |
+| **Visualization Projects** | Data visualization dashboards (Matplotlib/Seaborn) | [View](https://github.com/Anurag07-crypto/Visualization-) |
 
 ---
 
-## 🏆 Achievements & Certifications
+### 🛠️ Tools & Utilities
 
-A detailed list of your certifications, emphasizing your commitment to cutting-edge AI technologies and foundational data science expertise.
-
-### 🤖 Deep Learning & Generative AI Mastery
-
-- 🎓 **Generative AI Mastermind** (Outskill) 
-- 🎓 **Gen AI Engineering Mastermind** (Outskill) 
-- 🎓 **Introduction to Prompt Engineering with GitHub Copilot** (Simplilearn/Microsoft) 
-- 🎓 **Deep Learning with Keras and TensorFlow** (IBM/Coursera) 
-- 🎓 **Introduction to Neural Networks and PyTorch** (IBM/Coursera) 
-- 🎓 **Introduction to Deep Learning & Neural Networks with Keras** (IBM/Coursera) 
-
-### 📊 Foundational Machine Learning & Data Science
-
-- 🎓 **Machine Learning with Python** (IBM/Coursera) 
-- 🎓**Regression and Gradient Descent** (CodeSignal) 
-- 🎓 **Data Cleaning and Preprocessing in Machine Learning** (CodeSignal) 
-- 🎓 **College Algebra with Python** (Previously mentioned, kept for completeness)
-
-### 📈 Academic Foundation
-
-- 📜 **Senior School Certificate Examination (Class XII)** (CBSE, 2025) 
-  - Result: PASS* 
+| Project | Description | Link |
+|--------|------------|------|
+| **Chatbot** | Basic NLP chatbot implementation | [View](https://github.com/Anurag07-crypto/chatbot) |
+| **AI Portfolio** | Portfolio repository for AI projects | [View](https://github.com/Anurag07-crypto/cuteie-ai-portfolio) |
 
 ---
 
-## 💻 Technical Mastery & Deep Dive Skills
+### 💻 Python & Logic Projects
 
-This section is a detailed breakdown of my core technical competencies, reflecting a mastery far beyond a standard academic scope.
-
-| **Category** | **Core Competencies** |
-| :--- | :--- |
-| **🟦 1. Python & Core Coding** | **Solid foundation** in OOP, exception handling, file management, and module design for scalable AI projects. |
-| **🟩 2. Data Handling / Preprocessing** | **Pandas, NumPy** mastery (cleaning, merging, grouping). Expert in **Encoding** (One-Hot, Label), **Missing Value Imputation**, **Scaling**, **Train-Test Split**, and **Feature Engineering** best practices (including avoiding data leakage). Ready for production **Pipelines/ColumnTransformer**. |
-| **🟪 3. Frameworks** | **PyTorch** & **TensorFlow/Keras** (comfortable), **Scikit-learn** (full competence), **Streamlit** (Full App Dev), **FastAPI** (Deployment). |
-| **🟨 4. Machine Learning Models** | **Full spectrum** of classical models: Linear/Polynomial/Logistic Regression, Decision Trees, KNN, SVM, Naive Bayes. Proficient in **Cross-Validation**, **Hyperparameter Tuning**, **Feature Selection (SFS)**, and comprehensive model **Evaluation Metrics**. |
-| **🟧 5. Deep Learning (Advanced)** | Architectural intuition for **CNNs** (Image Classification/Regression), **RNNs/LSTMs/GRUs** (Sequence), and **Transformers** (Attention, Embeddings). Proficient in regularization (Dropout, BatchNorm), **Loss Functions**, and **Optimizers**. Experience with **Transfer Learning**. |
-| **🟥 6. Reinforcement Learning (Specialized)** | Knowledge of **RL Basics**, **Q-Learning**, and **Deep Q-Networks (DQN)**. |
-| **🟫 7. Deployment & App Building** | Ability to turn models into **Full-Stack ML applications** using **Streamlit** (UI/Inference) and **FastAPI** (Backend Logic/Integration). Proficient in image upload, inference, and front-end integration. |
-| **✅ Additional:** | Git & GitHub, Matplotlib, Seaborn, AI Product Planning, Technical Communication. |
+| Project | Description | Link |
+|--------|------------|------|
+| **Riddle Quest** | Logic puzzles & coding challenges | [View](https://github.com/Anurag07-crypto/Riddle-quest.py) |
+| **Matrix Operations** | Linear algebra implementations in Python | [View](https://github.com/Anurag07-crypto/Matrix_operations) |
+| **Password Generator** | Secure password generator | [View](https://github.com/Anurag07-crypto/Strong_password_generator) |
+| **Guess the Number** | Classic Python game | [View](https://github.com/Anurag07-crypto/Guess-the-number) |
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 🏆 Certifications
 
-I'm always open to discussing new AI concepts, potential collaborations, or challenging projects.
+### 🎓 IBM
+- IBM AI Engineering Certificate
 
-- Email: anuragbusiness819@gmail.com
-- Instagram: [anuu.code](https://instagram.com/anuu.code)
+### 🤖 Deep Learning & GenAI
+- Generative AI Mastermind (Outskill)
+- Gen AI Engineering Mastermind (Outskill)
+- Deep Learning with TensorFlow & Keras (IBM)
+- Neural Networks with PyTorch (IBM)
+
+### 📊 Machine Learning
+- Machine Learning with Python (IBM)
+- Regression & Gradient Descent (CodeSignal)
+- Data Preprocessing in ML (CodeSignal)
 
 ---
 
-Thanks for stopping by!
-Feel free to explore my repositories and connect. Let's build the future with AI.
+## ⚙️ Tech Stack & Skills
+
+### 🧠 AI / Machine Learning
+- Supervised Learning (Regression, Classification)
+- Model Evaluation & Optimization (Cross-validation, Feature Selection)
+- AutoML & Experimentation
+
+### 🔥 Deep Learning
+- CNNs (Image Classification, Feature Extraction)
+- Sequence Models (LSTM, Seq2Seq Chatbots)
+- Transformers (Conceptual + Applied)
+- Transfer Learning (MobileNetV2, pretrained models)
+
+### 🧩 Generative AI & RAG Systems
+- Retrieval-Augmented Generation (RAG)
+- LangChain & LangGraph pipelines
+- Embeddings & Vector Databases (ChromaDB)
+- Query Optimization & Context Engineering
+- LLM Integration (structured outputs, agents)
+
+### 🗣️ AI Applications
+- Voice-based AI systems (Speech → RAG → Response)
+- AI Assistants (Data Analyst, Knowledge Bots)
+- Chatbot Development (Rule-based + DL-based)
+
+### ⚙️ Backend & Deployment
+- FastAPI (API building, inference pipelines)
+- Streamlit (AI app interfaces)
+- End-to-end ML deployment (Model → UI → User)
+
+### 📊 Data & Processing
+- Pandas, NumPy (Data manipulation)
+- Data Cleaning, Encoding, Feature Engineering
+- Visualization (Matplotlib, Seaborn)
+
+### 🛠️ Tools & Engineering
+- Git & GitHub (version control, project structuring)
+- Logging, Error Handling, Debugging
+- Modular Code Design & Pipelines
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: anuragbusiness819@gmail.com  
+- 📸 Instagram: https://instagram.com/code.anuu  
+
+---
+
+## ⚡ Final Note
+
+I don’t just build models —  
+I build **AI products that solve real problems.**
+
+If you're working on something interesting in AI, let's connect 🤝
