@@ -61,6 +61,8 @@ I am an AI Engineer focused on building **real-world, end-to-end AI systems** â€
 
 | Project | Description | Link |
 |--------|------------|------|
+| **AI-Employee-OS** | AI-powered employee operating system for autonomous task management | [View](https://github.com/Anurag07-crypto/AI-Employee-OS) |
+| **Problem Solver** | Intelligent problem-solving system with advanced reasoning capabilities | [View](https://github.com/Anurag07-crypto/Problem_solver) |
 | **LinkedIn Post Writer** | AI system that researches topics and generates engaging LinkedIn posts using CrewAI + Ollama/Gemini | [View](https://github.com/Anurag07-crypto/Linkedin_Post_writer) |
 | **Chatbot** | NLP-based chatbot implementation | [View](https://github.com/Anurag07-crypto/chatbot) |
 
@@ -159,7 +161,7 @@ I am an AI Engineer focused on building **real-world, end-to-end AI systems** â€
 
 ## ðŸ“Š Repository Statistics
 
-- **Total Repositories**: 31
+- **Total Repositories**: 31+
 - **Primary Languages**: Python, Jupyter Notebook, TypeScript
 - **Focus Areas**: AI/ML, Deep Learning, RAG Systems, Full-stack Applications
 
