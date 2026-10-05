@@ -74,7 +74,7 @@ I work at the intersection of AI engineering and product thinking: building tool
 
 - GitHub: [Anurag07-crypto](https://github.com/Anurag07-crypto)
 - Email: anuragbusiness819@gmail.com
-- Instagram: [@code.anuu](https://instagram.com/code.anuu)
+- Instagram: [@anuu.only](https://instagram.com/anuu.only)
 
 ---
 
