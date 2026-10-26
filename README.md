@@ -20,9 +20,9 @@ I'm early in my career, but I ship real projects: retrieval systems you can quer
 
 | Project | What it does | Stack | Live |
 |---------|--------------|-------|------|
-| [**RepoLens**](https://github.com/Anurag07-crypto/RepoLens) | Ask questions about any GitHub repository and get answers grounded in its code | RAG · FastAPI · React/TypeScript | [Try it]([LIVE_URL](https://repolens-main.onrender.com/)) |
-| [**ReproLens**](https://github.com/Anurag07-crypto/ReproLens) 🏆 *Threws Odyssey 2026* | Checks research-paper claims against the paper's GitHub code. Extracts up to six experiment claims and labels each supported / contradicted / not found, with citations to exact source lines | Groq · ChromaDB · FastEmbed · Hybrid retrieval (RRF) · FastAPI · React/Vite | [Try it]([LIVE_URL](https://repro-lens-snowy.vercel.app/)) |
-| [**fix_my_error**](https://github.com/Anurag07-crypto/fix_my_error) 🏆 *Syntax Error 2026* | Paste a Python error and get corrected code, a plain-English explanation, and what to avoid next time | Python · Streamlit · LLM | [Try it]([LIVE_URL](https://fixmyerror.streamlit.app/)) |
+| [**RepoLens**](https://github.com/Anurag07-crypto/RepoLens) | Ask questions about any GitHub repository and get answers grounded in its code | RAG · FastAPI · React/TypeScript | [Try it](https://repolens-main.onrender.com/) |
+| [**ReproLens**](https://github.com/Anurag07-crypto/ReproLens) 🏆 *Threws Odyssey 2026* | Checks research-paper claims against the paper's GitHub code. Extracts up to six experiment claims and labels each supported / contradicted / not found, with citations to exact source lines | Groq · ChromaDB · FastEmbed · Hybrid retrieval (RRF) · FastAPI · React/Vite | [Try it](https://repro-lens-snowy.vercel.app/) |
+| [**fix_my_error**](https://github.com/Anurag07-crypto/fix_my_error) 🏆 *Syntax Error 2026* | Paste a Python error and get corrected code, a plain-English explanation, and what to avoid next time | Python · Streamlit · LLM | [Try it](https://fixmyerror.streamlit.app/) |
 
 ---
 
