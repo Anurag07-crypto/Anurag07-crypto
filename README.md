@@ -2,7 +2,7 @@
 
 **AI Engineer & BCA student** building RAG systems, LLM pipelines, and agentic tools.
 
-I'm early in my career, but I ship real projects: retrieval systems you can query, agents that execute tasks, and vision models trained end to end. [ONE LINE ON YOUR PROUDEST SHIPPED THING, e.g. "RepoLens lets you ask questions about any GitHub repo and get answers grounded in the code."]
+I'm early in my career, but I ship real projects: retrieval systems you can query, agents that execute tasks, and vision models trained end to end. **RepoLens lets you ask questions about any GitHub repo and get answers grounded in the code, and it's live.**
 
 📬 **Open to freelance AI/RAG projects** → [anuragbusiness819@gmail.com](mailto:anuragbusiness819@gmail.com)
 
@@ -16,17 +16,26 @@ I'm early in my career, but I ship real projects: retrieval systems you can quer
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Deployed Projects
+
+| Project | What it does | Stack | Live |
+|---------|--------------|-------|------|
+| [**RepoLens**](https://github.com/Anurag07-crypto/RepoLens) | Ask questions about any GitHub repository and get answers grounded in its code | RAG · FastAPI · React/TypeScript | [Try it](LIVE_URL) |
+| [**ReproLens**](https://github.com/Anurag07-crypto/ReproLens) 🏆 *Threws Odyssey 2026* | Checks research-paper claims against the paper's GitHub code. Extracts up to six experiment claims and labels each supported / contradicted / not found, with citations to exact source lines | Groq · ChromaDB · FastEmbed · Hybrid retrieval (RRF) · FastAPI · React/Vite | [Try it](LIVE_URL) |
+| [**fix_my_error**](https://github.com/Anurag07-crypto/fix_my_error) 🏆 *Syntax Error 2026* | Paste a Python error and get corrected code, a plain-English explanation, and what to avoid next time | Python · Streamlit · LLM | [Try it](LIVE_URL) |
+
+---
+
+## 🧪 More Projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | [**QueryPilot**](https://github.com/Anurag07-crypto/QueryPilot) | RAG system with query optimization and structured retrieval. [Add result: "X% better recall on Y dataset"] | LangChain · ChromaDB · FastAPI |
-| [**RepoLens**](https://github.com/Anurag07-crypto/RepoLens) | Ask questions about any GitHub repository and get answers grounded in its code | RAG · Python |
 | [**AI-Employee-OS**](https://github.com/Anurag07-crypto/AI-Employee-OS) | Autonomous agents that break goals into tasks and execute them | CrewAI · Python |
 | [**enterprise-voice-rag**](https://github.com/Anurag07-crypto/enterprise-voice-rag) | Talk to your documents: voice-enabled Q&A over private data | RAG · Speech · Python |
 | [**SignVision**](https://github.com/Anurag07-crypto/SignVision) | Sign language recognition from images with transfer learning | PyTorch · MobileNetV2 |
 
-More: [Perplexity-style RAG search](https://github.com/Anurag07-crypto/Perplexity) · [Data-scientist-assistant](https://github.com/Anurag07-crypto/Data-scientist-assistant) · [Bird-Identification-CNN-Model](https://github.com/Anurag07-crypto/Bird-Identification-CNN-Model) · [AI_PokeDex](https://github.com/Anurag07-crypto/AI_PokeDex) · [HR-Insights](https://github.com/Anurag07-crypto/HR-Insights) · [CustomerCompass](https://github.com/Anurag07-crypto/CustomerCompass)
+Also: [Perplexity-style RAG search](https://github.com/Anurag07-crypto/Perplexity) · [Data-scientist-assistant](https://github.com/Anurag07-crypto/Data-scientist-assistant) · [Bird-Identification-CNN-Model](https://github.com/Anurag07-crypto/Bird-Identification-CNN-Model) · [AI_PokeDex](https://github.com/Anurag07-crypto/AI_PokeDex) · [HR-Insights](https://github.com/Anurag07-crypto/HR-Insights) · [CustomerCompass](https://github.com/Anurag07-crypto/CustomerCompass)
 
 ---
 
@@ -35,6 +44,7 @@ More: [Perplexity-style RAG search](https://github.com/Anurag07-crypto/Perplexit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -43,9 +53,9 @@ More: [Perplexity-style RAG search](https://github.com/Anurag07-crypto/Perplexit
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**AI:** LLM applications · RAG · embeddings · vector databases (ChromaDB) · prompt & context engineering · agentic workflows (CrewAI)
+**AI:** LLM applications · RAG · hybrid retrieval · embeddings · reranking · vector databases (ChromaDB) · RAG evaluation · agentic workflows (CrewAI)
 **Deep learning:** CNNs · transfer learning · computer vision
-**Backend & tools:** REST APIs · model deployment · GitHub
+**Backend & deployment:** REST APIs · FastAPI · Render · Vercel · Streamlit
 
 ---
 
