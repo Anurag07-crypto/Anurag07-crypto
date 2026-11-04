@@ -76,4 +76,4 @@ Also: [Perplexity-style RAG search](https://github.com/Anurag07-crypto/Perplexit
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag07-crypto&layout=compact&theme=dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Anurag07-crypto&layout=compact&theme=dark)
