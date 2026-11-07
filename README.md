@@ -5,10 +5,8 @@ AI Engineer & BCA Student building end-to-end AI products, RAG systems, and agen
 I build practical AI solutions that combine LLMs, retrieval, and machine learning to solve real-world problems — from repository-aware assistants and enterprise search to computer vision and health-tech ML models.
 
 - 📧 Email: [anuragbusiness819@gmail.com](mailto:anuragbusiness819@gmail.com)
-- 📞 Phone: [+91 8796959187](tel:+918796959187)
 - 💻 GitHub: [Anurag07-crypto](https://github.com/Anurag07-crypto)
 - 📍 Open to freelance AI / RAG / ML projects
-
 ---
 
 ## 🔭 Currently building
