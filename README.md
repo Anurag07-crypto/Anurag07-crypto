@@ -1,69 +1,61 @@
 # Hi, I'm Anurag Kumar 👋
 
-**AI Engineer & BCA student** building RAG systems, LLM pipelines, and agentic tools.
+AI Engineer & BCA Student building end-to-end AI products, RAG systems, and agentic workflows.
 
-I'm early in my career, but I ship real projects: retrieval systems you can query, agents that execute tasks, and vision models trained end to end. **RepoLens lets you ask questions about any GitHub repo and get answers grounded in the code, and it's live.**
+I build practical AI solutions that combine LLMs, retrieval, and machine learning to solve real-world problems — from repository-aware assistants and enterprise search to computer vision and health-tech ML models.
 
-📬 **Open to freelance AI/RAG projects** → [anuragbusiness819@gmail.com](mailto:anuragbusiness819@gmail.com)
-
----
-
-## 🔭 Currently
-
-- Building **AI-Employee-OS**, a multi-agent system that plans and executes workflows
-- Improving retrieval quality in **QueryPilot** (query rewriting, hybrid search, evaluation)
-- Learning: [LangGraph / RAG evaluation / Docker, edit to match what you're really learning]
+- 📧 Email: [anuragbusiness819@gmail.com](mailto:anuragbusiness819@gmail.com)
+- 📞 Phone: [+91 8796959187](tel:+918796959187)
+- 💻 GitHub: [Anurag07-crypto](https://github.com/Anurag07-crypto)
+- 📍 Open to freelance AI / RAG / ML projects
 
 ---
 
-## 🚀 Deployed Projects
+## 🔭 Currently building
 
-| Project | What it does | Stack | Live |
-|---------|--------------|-------|------|
-| [**RepoLens**](https://github.com/Anurag07-crypto/RepoLens) | Ask questions about any GitHub repository and get answers grounded in its code | RAG · FastAPI · React/TypeScript | [Try it](https://repolens-main.onrender.com/) |
-| [**ReproLens**](https://github.com/Anurag07-crypto/ReproLens) 🏆 *Threws Odyssey 2026* | Checks research-paper claims against the paper's GitHub code. Extracts up to six experiment claims and labels each supported / contradicted / not found, with citations to exact source lines | Groq · ChromaDB · FastEmbed · Hybrid retrieval (RRF) · FastAPI · React/Vite | [Try it](https://repro-lens-snowy.vercel.app/) |
-| [**fix_my_error**](https://github.com/Anurag07-crypto/fix_my_error) 🏆 *Syntax Error 2026* | Paste a Python error and get corrected code, a plain-English explanation, and what to avoid next time | Python · Streamlit · LLM | [Try it](https://fixmyerror.streamlit.app/) |
+- AI-Employee-OS — multi-agent system for planning and workflow execution
+- QueryPilot — RAG application with query rewriting, retrieval optimization, and evaluation
+- RepoLens — repository-aware AI assistant that answers questions from codebases
+- Improving retrieval quality and agent orchestration for production-ready AI tools
+- Learning: LangGraph, RAG evaluation, agent design, Docker, and vector search systems
 
 ---
 
-## 🧪 More Projects
+## 🚀 Featured projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [**QueryPilot**](https://github.com/Anurag07-crypto/QueryPilot) | RAG system with query optimization and structured retrieval. [Add result: "X% better recall on Y dataset"] | LangChain · ChromaDB · FastAPI |
-| [**AI-Employee-OS**](https://github.com/Anurag07-crypto/AI-Employee-OS) | Autonomous agents that break goals into tasks and execute them | CrewAI · Python |
-| [**enterprise-voice-rag**](https://github.com/Anurag07-crypto/enterprise-voice-rag) | Talk to your documents: voice-enabled Q&A over private data | RAG · Speech · Python |
-| [**SignVision**](https://github.com/Anurag07-crypto/SignVision) | Sign language recognition from images with transfer learning | PyTorch · MobileNetV2 |
-
-Also: [Perplexity-style RAG search](https://github.com/Anurag07-crypto/Perplexity) · [Data-scientist-assistant](https://github.com/Anurag07-crypto/Data-scientist-assistant) · [Bird-Identification-CNN-Model](https://github.com/Anurag07-crypto/Bird-Identification-CNN-Model) · [AI_PokeDex](https://github.com/Anurag07-crypto/AI_PokeDex) · [HR-Insights](https://github.com/Anurag07-crypto/HR-Insights) · [CustomerCompass](https://github.com/Anurag07-crypto/CustomerCompass)
+| [RepoLens](https://github.com/Anurag07-crypto/RepoLens) | Ask questions about any GitHub repository and get grounded answers based on the codebase. | Python · FastAPI · React · RAG |
+| [QueryPilot](https://github.com/Anurag07-crypto/QueryPilot) | Smart RAG system with query optimization and structured retrieval pipeline. | LangChain · Chroma · Python |
+| [AI-Employee-OS](https://github.com/Anurag07-crypto/AI-Employee-OS) | Multi-agent workflow system that breaks goals into tasks and executes them autonomously. | CrewAI · Python · Agents |
+| [enterprise-voice-rag](https://github.com/Anurag07-crypto/enterprise-voice-rag) | Voice-enabled Q&A over enterprise documents and internal knowledge bases. | RAG · Speech · Python |
+| [SignVision](https://github.com/Anurag07-crypto/SignVision) | Sign language recognition using image classification and transfer learning. | PyTorch · CNN · Computer Vision |
+| [Bird-Identification-CNN-Model](https://github.com/Anurag07-crypto/Bird-Identification-CNN-Model) | Bird image classification model trained with deep learning techniques. | CNN · TensorFlow · Python |
+| [Heart_health_checker-Machine-learning-](https://github.com/Anurag07-crypto/Heart_health_checker-Machine-learning-) | Machine learning project for health screening and pattern-based classification. | Python · ML · Data Science |
+| [ragleap-core](https://github.com/ragleap/ragleap-core) | Experience-focused AI infrastructure for RAG and retrieval workflows. | Python · RAG · AI Infrastructure |
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**AI & LLMs:** LLM applications · RAG systems · hybrid retrieval · embeddings · re-ranking · prompt design · evals · agentic workflows
 
-**AI:** LLM applications · RAG · hybrid retrieval · embeddings · reranking · vector databases (ChromaDB) · RAG evaluation · agentic workflows (CrewAI)
-**Deep learning:** CNNs · transfer learning · computer vision
-**Backend & deployment:** REST APIs · FastAPI · Render · Vercel · Streamlit
+**Machine Learning & Deep Learning:** CNNs · transfer learning · computer vision · classification models · predictive ML
+
+**Backend & Tools:** Python · FastAPI · REST APIs · Docker · Git · SQL · Streamlit
+
+**Frontend / Product Work:** React · TypeScript · UI prototyping for AI tools
 
 ---
 
 ## 🎓 Certifications
 
-- [IBM AI Engineering Professional Certificate](LINK)
-- [Deep Learning with TensorFlow & Keras](LINK)
-- [Neural Networks with PyTorch](LINK)
+- IBM AI Engineering Professional Certificate
+- Deep Learning with TensorFlow & Keras
+- Neural Networks with PyTorch
+- Coursera coursework in AI, ML, and deep learning foundations
+
+[View Coursera certificate](https://coursera.org/share/73d223ba6c21b038ff79e7834820c80b)
 
 ---
 
@@ -71,8 +63,7 @@ Also: [Perplexity-style RAG search](https://github.com/Anurag07-crypto/Perplexit
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Anurag07-crypto)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anuragbusiness819@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/anuu.only)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+918796959187)
 
 ---
 
