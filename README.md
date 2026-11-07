@@ -1,11 +1,12 @@
 # Hi, I'm Anurag Kumar 👋
 
-AI Engineer & BCA Student building end-to-end AI products, RAG systems, and agentic workflows.
+**AI Engineer, BCA student, and open-source contributor** building end-to-end AI products, RAG systems, and agentic workflows.
 
-I build practical AI solutions that combine LLMs, retrieval, and machine learning to solve real-world problems — from repository-aware assistants and enterprise search to computer vision and health-tech ML models.
+I build practical AI solutions that combine LLMs, retrieval, and machine learning to solve real-world problems — from repository-aware assistants and enterprise search to computer vision and health-tech ML models. I also contribute to open-source AI projects, including [RAGLeap Core](https://github.com/ragleap/ragleap-core).
 
 - 📧 Email: [anuragbusiness819@gmail.com](mailto:anuragbusiness819@gmail.com)
-- 📍 Open to freelance AI / RAG / ML projects
+- 📍 Open to freelance AI / RAG / ML projects and open-source collaboration
+
 ---
 
 ## 🔭 Currently building
@@ -29,6 +30,12 @@ I build practical AI solutions that combine LLMs, retrieval, and machine learnin
 | [SignVision](https://github.com/Anurag07-crypto/SignVision) | Sign language recognition using image classification and transfer learning. | PyTorch · CNN · Computer Vision |
 | [Bird-Identification-CNN-Model](https://github.com/Anurag07-crypto/Bird-Identification-CNN-Model) | Bird image classification model trained with deep learning techniques. | CNN · TensorFlow · Python |
 | [Heart_health_checker-Machine-learning-](https://github.com/Anurag07-crypto/Heart_health_checker-Machine-learning-) | Machine learning project for health screening and pattern-based classification. | Python · ML · Data Science |
+
+---
+
+## 🌱 Open-source contributions
+
+I contribute to open-source AI and retrieval projects, including **[RAGLeap Core](https://github.com/ragleap/ragleap-core)**. I’m interested in collaborating on RAG systems, AI infrastructure, and developer tools.
 
 ---
 
