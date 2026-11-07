@@ -5,7 +5,6 @@ AI Engineer & BCA Student building end-to-end AI products, RAG systems, and agen
 I build practical AI solutions that combine LLMs, retrieval, and machine learning to solve real-world problems — from repository-aware assistants and enterprise search to computer vision and health-tech ML models.
 
 - 📧 Email: [anuragbusiness819@gmail.com](mailto:anuragbusiness819@gmail.com)
-- 💻 GitHub: [Anurag07-crypto](https://github.com/Anurag07-crypto)
 - 📍 Open to freelance AI / RAG / ML projects
 ---
 
@@ -30,7 +29,6 @@ I build practical AI solutions that combine LLMs, retrieval, and machine learnin
 | [SignVision](https://github.com/Anurag07-crypto/SignVision) | Sign language recognition using image classification and transfer learning. | PyTorch · CNN · Computer Vision |
 | [Bird-Identification-CNN-Model](https://github.com/Anurag07-crypto/Bird-Identification-CNN-Model) | Bird image classification model trained with deep learning techniques. | CNN · TensorFlow · Python |
 | [Heart_health_checker-Machine-learning-](https://github.com/Anurag07-crypto/Heart_health_checker-Machine-learning-) | Machine learning project for health screening and pattern-based classification. | Python · ML · Data Science |
-| [ragleap-core](https://github.com/ragleap/ragleap-core) | Experience-focused AI infrastructure for RAG and retrieval workflows. | Python · RAG · AI Infrastructure |
 
 ---
 
